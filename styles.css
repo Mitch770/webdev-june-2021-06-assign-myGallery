@@ -1,0 +1,33 @@
+* {
+    background-attachment: white;
+}
+h1 {
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+
+h3 {
+    background-color: lightblue;}
+
+.btn {
+    background-color: grey;
+    color: white;
+
+}
+.flex-container {
+    display: flex;
+    flex-flow: wrap;
+    justify-content: center;
+    
+}
+.flex-items {
+    margin:3px;
+}
+.below-image {
+    background-color: orange;
+    text-align:center;
+}
+.line-break {
+    width: 100%;
+  }
